@@ -1,0 +1,22 @@
+{
+  "name": "GradeBook Pro \u2014 Colleague Edition",
+  "short_name": "GradeBook Pro",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6fb",
+  "theme_color": "#142b4a",
+  "description": "Customisable offline gradebook for teachers",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
